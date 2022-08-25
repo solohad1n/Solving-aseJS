@@ -1,4 +1,4 @@
-//8 kyu - Get the mean of an array
+//8 kyu - Reversed sequence
 //https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 //К нам приходит целое число и мы должны вернуть последовательность чисел в обратном порядке.
 
@@ -12,9 +12,9 @@
 
 // Task:
 
-const reverseSeq = n => {
-  return [];
-};
+// const reverseSeq = n => {
+//   return [];
+// };
 
 // Solution:
 
